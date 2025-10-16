@@ -2,7 +2,7 @@
 
 **`Desenvolvedor front-end`**
 
-Me chamo Felipe Duarte Silva, tenho 23 anos e sou natural de São Pedro-SP, Atualmente estou cursando Ciência da Computação na Cruzeiro do Sul Virtual. Tenho conhecimento em HTML5, CSS3, JavaScript ES6+ e React, estou me preparando para avançar com a framework Tailwind CSS. Compartilho meu conhecimento através do Instagram, com o perfil chamado "[felipeds.dev](https://www.instagram.com/felipeds.dev/)".
+Me chamo Felipe Duarte Silva, tenho 23 anos e sou natural de São Pedro-SP, Atualmente estou cursando Ciência da Computação na Cruzeiro do Sul Virtual. Tenho conhecimento em HTML5, CSS3, JavaScript ES6+, React, TailwindCSS, Bootstrap, Node.js, Firebase, WordPress. Atualmente estou ampliando meus conhecimentos em PHP para expandir minhas habilidades no desenvolvimento web completo. Compartilho meu conhecimento através do Instagram, com o perfil chamado "[felipeds.dev](https://www.instagram.com/felipeds.dev/)".
 
 <p align="left">
     <a href="https://github.com/felipee-duarte)">
@@ -55,6 +55,46 @@ Me chamo Felipe Duarte Silva, tenho 23 anos e sou natural de São Pedro-SP, Atua
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind CSS" 
+    title="Tailwind CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap" 
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="WordPress" 
+    title="WordPress" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Firebase" 
+    title="Firebase" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
 />
 <img 
     align="left" 
